@@ -4,7 +4,7 @@
  =========================================================
 
  * Product Page: https://www.creative-tim.com/product/black-dashboard
- * Copyright 2024 Creative Tim (http://www.creative-tim.com)
+ * Copyright 2024 RunningKiddos (http://www.creative-tim.com)
 
  =========================================================
 
